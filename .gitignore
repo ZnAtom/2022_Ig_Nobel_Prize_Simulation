@@ -1,0 +1,39 @@
+# Python 编译文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 构建产物
+build/
+dist/
+*.exe
+*.spec
+
+# 数据文件
+person_data.xlsx
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# PyInstaller 生成的文件
+*.toc
+*.pkg
+*.pyz
+*.zip
+*.html
+*.txt
